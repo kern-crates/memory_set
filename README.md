@@ -1,5 +1,7 @@
 # memory_set
 
+**This repository has been archived. The code has been moved to the [memory_addr](https://github.com/arceos-org/memory_addr) repository.**
+
 [![Crates.io](https://img.shields.io/crates/v/memory_set)](https://crates.io/crates/memory_set)
 [![Docs.rs](https://docs.rs/memory_set/badge.svg)](https://docs.rs/memory_set)
 [![CI](https://github.com/arceos-org/memory_set/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/arceos-org/memory_set/actions/workflows/ci.yml)
